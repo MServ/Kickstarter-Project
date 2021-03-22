@@ -13,7 +13,7 @@ Louise wants to know how other campaigns compared in relation to launch dates an
 [Graph comparing launch dates](UCB-Kickstarter-Project/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
-[Graph comparing funding goals](UCB-Kickstarter-Project/Outcomes_vs_Goals.png) 
+[Graph comparing funding goals](https://github.com/MServ/UCB-Excel-Project/blob/main/Outcomes_vs_Goals.png) 
 
 ### Challenges and Difficulties Encountered
 The initial dataset started with Unix timestamps instead of Gregorian dates, so those needed to be converted.
