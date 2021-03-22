@@ -10,7 +10,7 @@ Louise wants to know how other campaigns compared in relation to launch dates an
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-[Graph comparing launch dates](UCB-Kickstarter-Project/Theater_Outcomes_vs_Launch.png)
+[Graph comparing launch dates](https://github.com/MServ/UCB-Excel-Project/blob/main/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 [Graph comparing funding goals](https://github.com/MServ/UCB-Excel-Project/blob/main/Outcomes_vs_Goals.png) 
